@@ -15,7 +15,6 @@ plt.title('график функции')
 plt.grid(True)
 plt.show()
 
-
 a = [-2, 2]
 y = [((-2)**3-4)/((-2)-1)**3, (2**3-4)/(2-1)**3]
 plt.scatter(a, y, color='r')
