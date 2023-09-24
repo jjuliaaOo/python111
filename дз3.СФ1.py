@@ -1,5 +1,5 @@
 import math
-f = open('C:/Users/admin/Downloads/СФ1.txt', 'r')
+f = open("C:\Users\trety\OneDrive\Рабочий стол\СФ1.txt", 'r')
 max = 0
 t=[]
 
